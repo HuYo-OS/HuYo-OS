@@ -4,4 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=HuYo-OS)
 
- [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun)](https://github.com/ideshun)
+ [![HuYo-OS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideshun)](https://github.com/ideshun)
