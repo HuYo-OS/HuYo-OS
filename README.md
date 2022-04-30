@@ -1,7 +1,7 @@
 ### (｡･∀･)ﾉﾞ嗨 欢迎来到我的GitHub个人主页
 ### Hi there 👋 Welcome to my GitHub Profile
 <p align="center">
-  <img src="https://count.getloli.com/get/@HuYo-OS.readme" />
+  <img src="https://31ea06d6.cpolar.cn/get/@HuYo-OS?theme=gelbooru" />
 </p>
 
 <p>
