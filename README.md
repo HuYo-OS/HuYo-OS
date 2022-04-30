@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-http://antzuhl.cn:4000/get/@HuYo-OS
+![](http://antzuhl.cn:4000/get/@HuYo-OS.readme)
