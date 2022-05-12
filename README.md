@@ -9,6 +9,6 @@
 <p>
   <a href="https://github.com/HuYo-OS">
     <img src="https://github-readme-stats.vercel.app/api?username=HuYo-OS" title="GitHub Stats" alt="HuYo-OS GitHub Stats" align="left" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuYo-OS" title="HuYo-OS Stats" alt="HuYo-OS Most Used Languages" align="right" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuYo-OS" title="HuYo-OS Most Used Languages" alt="HuYo-OS Most Used Languages" align="right" />
   </a>
 </p>
