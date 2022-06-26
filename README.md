@@ -9,13 +9,13 @@
 
 <p>
   <a href="https://github.com/HuYo-OS">
-        <img src="https://github-readme-stats.vercel.app/api?username=HuYo-OS" alt="HuYo-OS GitHub Stats" align="left" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuYo-OS" alt="HuYo-OS Most Used Languages" align="right" />
+        <img src="https://github-readme-stats.vercel.app/api?username=HuYo-OS" title="HuYo-OS GitHub Stats" align="left" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuYo-OS" title="HuYo-OS Most Used Languages" align="right" />
   </a>
 </p>
     
 <p>
   <a href="https://github.com/HuYo-OS">
-    <img src="https://genshin-card.getloli.com/3/273424120.png" alt="My Genshin Impact UID" />
+    <img src="https://genshin-card.getloli.com/3/273424120.png" title="My Genshin Impact UID" />
   </a>
 </p>
