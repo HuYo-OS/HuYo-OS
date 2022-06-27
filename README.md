@@ -16,6 +16,6 @@
     
 <p>
   <a href="https://github.com/HuYo-OS">
-    <img src="https://genshin-card.getloli.com/3/273424120.png" title="My Genshin Impact UID" />
+    <img src="https://genshin-card.getloli.com/3/273424120.png" title="My Genshin Impact Info" />
   </a>
 </p>
